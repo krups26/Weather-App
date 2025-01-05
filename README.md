@@ -1,4 +1,3 @@
-# Weather-App
 <h2>Weather App ☀️🌧️❄️</h2>
 <h3>A sleek and user-friendly weather application that provides real-time weather updates for any location.</h3>
 <p>Built using HTML,CSS and JavaScript. It delivers accurate forecasts, current conditions, and detailed weather insights with an intuitive interface.</p>
